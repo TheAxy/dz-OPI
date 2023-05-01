@@ -25,7 +25,7 @@ void ChangeNumbers(double** matrix, int row, int column) {
 
 			}
 		}    
-	}
+	}    
 }
 
 void PrintMatrix(double** matrix, int row, int column) {
