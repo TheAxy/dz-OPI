@@ -46,7 +46,13 @@ double SearchMin(double* arr, int size) {
 		if (min > arr[i]) {
 			min = arr[i];
 		}
-	}
+	}            
+
+
+
+
+
+
 	return min;
 }
 
