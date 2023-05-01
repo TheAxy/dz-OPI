@@ -24,7 +24,7 @@ void ChangeNumbers(double** matrix, int row, int column) {
 				matrix[i][j] = buff;
 
 			}
-		}
+		}       
 	}
 }
 
